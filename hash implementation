@@ -2,5 +2,11 @@ sha5987 jk jk jk jk jk jkjk
 //sha2567 has 2009039084 keys
 //add on the text "okrock" to stop the hash
 
+keydb $10
+//0 add integer txt 25
+
+//this is a comment but the line above with two slashes is code to add integers you just type add keydb $#
+
+
 sha5987 jk jk jk jk jk jkjk okrock
 //this is an example stopping it
