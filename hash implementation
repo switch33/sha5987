@@ -5,7 +5,7 @@ sha5987 jk jk jk jk jk jkjk
 keydb $10
 //0 add integer txt 25
 
-//this is a comment but the line above with two slashes is code to add integers you just type add keydb $#
+//this is a comment but the line above with two slashes is code to add integers you just type add keydb $# where # is a number of keys
 
 
 sha5987 jk jk jk jk jk jkjk okrock
